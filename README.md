@@ -1,8 +1,6 @@
 # Task-Automation-Python
 A simple Python automation script that automatically moves all JPG files from one folder to another using os and shutil modules.
 
-# Task Automation with Python
-
 ## Project Description
 This Python script automates the task of moving all JPG files from one folder to another.
 
